@@ -78,7 +78,7 @@ function setup() {
 	for (var i = 0; i < mainData.getRowCount(); i++) {  // collect the data and check double-connection exists
 		
 		m_con_id[i] = mainData.get(i, 'connection_id');
-		if (m_con_id[i] == 0)	m_countOccurence[0]++;
+		if (m_con_id[i] == 0)	m_countOccurence[0]++; // counting how often an ID occoures. Not in use ATM!
 		else if (m_con_id[i] == 1) m_countOccurence[1]++;
 		else if (m_con_id[i] == 2) m_countOccurence[2]++;
 		else if (m_con_id[i] == 3) m_countOccurence[3]++;
@@ -87,7 +87,6 @@ function setup() {
 		else if (m_con_id[i] == 6) m_countOccurence[6]++;
 		else if (m_con_id[i] == 7) m_countOccurence[7]++;
 		
-		
 		m_obj_name[i] = mainData.get(i, 'obj_name');
 		m_dir[i] = mainData.get(i, 'direction');
 		m_act_type[i] = mainData.get(i, 'activity_type');
@@ -95,7 +94,7 @@ function setup() {
 		m_comment[i] = mainData.get(i, 'comment');
 	}
 	
-	for(var i = 0; i<m_countOccurence.length; i++){ // get max. cycle size
+	for(var i = 0; i<m_countOccurence.length; i++){ // check how many different Relations will be displayed. Not in use ATM!
 		if(m_countOccurence[i] >0) maxObjects++;
 	}
 
@@ -475,7 +474,7 @@ Objects.prototype.displayActivities = function() {
 
 	else if(this.dir == "to" && !m_isDouble[this.count]) {
 		stroke(this.r, this.g, this.b, io);
-		strokeWeight(2);
+		strokeWeight(4);
 		line(x1, y1, x2, y2);
 		push();
 		translate(x2, y2);
