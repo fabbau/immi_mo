@@ -1,0 +1,62 @@
+[
+	{
+		"id":1,
+		"object":"bath tube.png",
+		"x":349,
+		"y":173 
+	},
+	{
+		"id":2,
+		"object":"cadle bed.png",
+		"x":266,
+		"y":291
+	},
+	{
+		"id":3,
+		"object":"diapers.png",
+		"x":175,
+		"y":153
+	},
+	{
+		"id":4,
+		"object":"grown-up clothes.png",
+		"x":267,
+		"y":337
+	},
+	{
+		"id":5,
+		"object":"kids baby clothes.png",
+		"x":274,
+		"y":299
+	},
+	{
+		"id":6,
+		"object":"money.png",
+		"x":142,
+		"y":142
+	},
+	{
+		"id":7,
+		"object":"prawn stroller.png",
+		"x":305,
+		"y":278
+	},
+	{
+		"id":8,
+		"object":"toys.png",
+		"x":171,
+		"y":249
+	},
+	{
+		"id":9,
+		"object":"various childrens stuff.png",
+		"x":260,
+		"y":253
+	},
+	{
+		"id":10,
+		"object":"various stuff.png",
+		"x":284,
+		"y":268
+	}
+]

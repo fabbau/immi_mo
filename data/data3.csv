@@ -1,0 +1,7 @@
+connection_id,obj_name,direction,activity_type,rel_type,country,gender,comment
+0,bath tube,from,giving,family,usa,man,We didn't have anything [as kids]. We couldn't afford anything. So now that we can I find it difficult to find a balance.
+2,diapers,to,presenting,playground friends,pl,man
+4,kids baby clothes,from,buySell,family,uk,woman
+5,various stuff,from,giving,family,uk,man
+6,various childrens stuff,from,borrowing and lending,colleague,usa,woman
+7,various stuff,to,buying and selling,family,pl,woman

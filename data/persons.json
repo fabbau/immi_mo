@@ -1,0 +1,146 @@
+[
+	{
+		"file"   :"pl-man-colleague.png",
+		"nation" :"pl",
+		"gender" :"man",
+		"relType":"colleague"
+	},
+	{
+		"file"   :"pl-man-family.png",
+		"nation" :"pl",
+		"gender" :"man",
+		"relType":"family"
+	},
+	{
+		"file"   :"pl-man-friends.png",
+		"nation" :"pl",
+		"gender" :"man",
+		"relType":"friends"
+	},
+	{
+		"file"   :"pl-man-playground friends.png",
+		"nation" :"pl",
+		"gender" :"man",
+		"relType":"playground friends"
+	},
+	{
+		"file"   :"pl-woman-colleague.png",
+		"nation" :"pl",
+		"gender" :"woman",
+		"relType":"colleague"
+	},
+	{
+		"file"   :"pl-woman-family.png",
+		"nation" :"pl",
+		"gender" :"woman",
+		"relType":"family"
+	},
+	{
+		"file"   :"pl-woman-friends.png",
+		"nation" :"pl",
+		"gender" :"woman",
+		"relType":"friends"
+	},
+	{
+		"file"   :"pl-woman-playground friends.png",
+		"nation" :"pl",
+		"gender" :"woman",
+		"relType":"playground friends"
+	},
+	{
+		"file"   :"uk-man-colleague.png",
+		"nation" :"uk",
+		"gender" :"man",
+		"relType":"colleague"
+	},
+	{
+		"file"   :"uk-man-family.png",
+		"nation" :"uk",
+		"gender" :"man",
+		"relType":"family"
+	},
+	{
+		"file"   :"uk-man-friends.png",
+		"nation" :"uk",
+		"gender" :"man",
+		"relType":"friends"
+	},
+	{
+		"file"   :"uk-man-playground friends.png",
+		"nation" :"uk",
+		"gender" :"man",
+		"relType":"playground friends"
+	},
+	{
+		"file"   :"uk-woman-colleague.png",
+		"nation" :"uk",
+		"gender" :"woman",
+		"relType":"colleague"
+	},
+	{
+		"file"   :"uk-woman-family.png",
+		"nation" :"uk",
+		"gender" :"woman",
+		"relType":"family"
+	},
+	{
+		"file"   :"uk-woman-friends.png",
+		"nation" :"uk",
+		"gender" :"woman",
+		"relType":"friends"
+	},
+	{
+		"file"   :"uk-woman-playground friends.png",
+		"nation" :"uk",
+		"gender" :"woman",
+		"relType":"playground friends"
+	},
+	{
+		"file"   :"usa-man-colleague.png",
+		"nation" :"usa",
+		"gender" :"man",
+		"relType":"colleague"
+	},
+	{
+		"file"   :"usa-man-family.png",
+		"nation" :"usa",
+		"gender" :"man",
+		"relType":"family"
+	},
+	{
+		"file"   :"usa-man-friends.png",
+		"nation" :"usa",
+		"gender" :"man",
+		"relType":"friends"
+	},
+	{
+		"file"   :"usa-man-playground friends.png",
+		"nation" :"usa",
+		"gender" :"man",
+		"relType":"playground friends"
+	},
+	{
+		"file"   :"usa-woman-colleague.png",
+		"nation" :"usa",
+		"gender" :"woman",
+		"relType":"colleague"
+	},
+	{
+		"file"   :"usa-woman-family.png",
+		"nation" :"usa",
+		"gender" :"woman",
+		"relType":"family"
+	},
+	{
+		"file"   :"usa-woman-friends.png",
+		"nation" :"usa",
+		"gender" :"woman",
+		"relType":"friends"
+	},
+	{
+		"file"   :"usa-woman-playground friends.png",
+		"nation" :"usa",
+		"gender" :"woman",
+		"relType":"playground friends"
+	}
+]

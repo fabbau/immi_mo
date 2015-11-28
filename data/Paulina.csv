@@ -1,0 +1,7 @@
+connection_id,obj_name,direction,activity_type,rel_type,country,gender,comment
+1,stuff,to,presenting,family,uk,female,We didn't have anything [as kids]. We couldn't afford anything. So now that we can, I find it difficult to find a balance.
+2,stuff,to,presenting,family,uk,male,We didn't have anything [as kids]. We couldn't afford anything. So now that we can, I find it difficult to find a balance.
+3,baby clothes,from,giving,friends,uk
+4,childrens items,from,giving,family,pl,female,My sister has a friend who has a baby boy in Poland and in Poland it's not so easy so we try to send things to her when there's something left.
+5,diapers,from,keeping and bringing,pl
+6,grown up clothes,to,keeping and bringing,pl
